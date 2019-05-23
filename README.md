@@ -7,5 +7,3 @@ This python script transforms the operators calculated by Openfermion to Qutip
 
 ## Revisions are welcomed.
 ## COMMERCIAL USES ARE STRICTLY PROHIBATED.
-
-For more detail, c
