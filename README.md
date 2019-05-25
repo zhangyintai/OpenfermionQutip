@@ -11,4 +11,4 @@ This python script transforms the operators calculated by Openfermion to Qutip
 ## Update Log
 ### 2019/05/25 Optimized algorithm. Frozen and unoccupied sub-spaces can be separated from the active sub-space, resulting to a huge promotion in the efficiency of both space and time.
 
-## The author of the code shoud be acknowledged if the code has been used.
+## The author of the code should be acknowledged if the code has been used.
